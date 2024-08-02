@@ -8,6 +8,7 @@ pracmln is a toolbox for statistical relational learning and reasoning and provi
   * Project Page: http://www.pracmln.org
   * Lead developer: Daniel Nyga (nyga@cs.uni-bremen.de)
 
+#### This is an attempt to modernize this library as it should be useful currently, and presently does not install in a python 3.10 env
 
 Installation
 ------------
@@ -30,7 +31,7 @@ it in your favorite web browser:
 
 Sphinx can be installed with
 
-    $ sudo pip install sphinx sphinxcontrib-bibtex 
+    $ pip install sphinx sphinxcontrib-bibtex 
 
 
 
